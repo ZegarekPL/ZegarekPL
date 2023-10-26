@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/ZegarekPL"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hi👋,%20I'm%20Wiktor Mazur;welcome%20to%20my%20profile%20🇵🇱;web%20development%20❤️&center=true&width=380&height=45"></a>
+  <a href="https://github.com/ZegarekPL"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hi👋,%20I'm%20Wiktor%20Mazur;welcome%20to%20my%20profile%20🇵🇱;web%20development%20❤️&center=true&width=380&height=45"></a>
 </p>
 
 <br />
@@ -42,14 +42,8 @@
   </a>
 </p>
 
-<!---
 <a>
-    <a href="https://github.com/pablitoo1"><img alt="pablitoo1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=pablitoo1&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/pablitoo1"><img alt="pablitoo1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=pablitoo1&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/ZegarekPL"><img alt="ZegarekPL's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=ZegarekPL&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/ZegarekPL"><img alt="ZegarekPL's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ZegarekPL&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
---->
-
-<!---
-![pablitoo1's Graph](https://github-readme-activity-graph.vercel.app/graph?username=pablitoo1&custom_title=pablitoo1's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
---->
