@@ -12,6 +12,28 @@
 
 <br />
 <br />
+<h1>MY PROJECT</h1>
+
+<h2>Done </h2>
+<a href="https://lksglowienka.pl/">LKS Glowienka Website: </a>
+<p>Football club management system with automatic counting of player, club and season statistics</p>
+
+<h2>In progress </h2>
+
+<a href="https://github.com/theImmortalCoders/konfero_frontend">Konfero: </a>
+<p>A web application for organizing scientific conferences is a tool designed to support organizers in effectively managing all aspects of the event</p>
+<br/>
+
+<a href="https://github.com/theImmortalCoders/reServeCourt_frontend">reServeCourt: </a>
+<p>This project aims to develop an application for managing tennis courts and reservations</p>
+<br/>
+
+<a href="https://github.com/skni-kod/KodemyFrontend">Kodemy: </a>
+<p>Kodemy is a web application that allows users to store useful materials covering everything from IT technologies to a wide range of scientific knowledge and practical skills</p>
+<br/>
+
+<hr/>
+<br/>
 
 <h1>ABOUT ME</h1>
 
@@ -23,7 +45,7 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
-![MySQL](https://img.shields.io/badge/-mysql-E58E00?style=for-the-badge&labelColor=00618B&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-mysql-00618B?style=for-the-badge&labelColor=00618B&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 <br/>
@@ -42,8 +64,13 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/ZegarekPL"><img alt="ZegarekPL's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=ZegarekPL&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+</p>
+<!--
 <a>
     <a href="https://github.com/ZegarekPL"><img alt="ZegarekPL's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=ZegarekPL&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <a href="https://github.com/ZegarekPL"><img alt="ZegarekPL's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ZegarekPL&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
+-->
