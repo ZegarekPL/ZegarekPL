@@ -24,6 +24,9 @@
 
 <h2>In progress </h2>
 
+<a href="https://github.com/theImmortalCoders/RUTAIGames">RUTAIGames: </a>
+<p>The project involves creating a web app that serves as a mini-game database for interacting with artificial intelligence written in Python, JavaScript, HTML, and Tailwind CSS</p>
+
 <a href="https://github.com/theImmortalCoders/konfero_frontend">Konfero: </a>
 <p>A web application for organizing scientific conferences is a tool designed to support organizers in effectively managing all aspects of the event made with Next.js (using TypeScript) and Tailwindcss</p>
 
