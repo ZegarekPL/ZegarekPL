@@ -20,18 +20,18 @@
 <p>Java-based banking application integrated with a MySQL database, featuring a JavaFX user interface.</p>
 
 <a href="https://lksglowienka.pl/">LKS Glowienka Website: </a>
-<p>Football club management system with automatic counting of player, club and season statistics made with Next.js and Tailwindcss</p>
+<p>Football club management system with automatic counting of player, club and season statistics made with Next.js (using TypeScript) and Tailwindcss</p>
 
 <h2>In progress </h2>
 
 <a href="https://github.com/theImmortalCoders/konfero_frontend">Konfero: </a>
-<p>A web application for organizing scientific conferences is a tool designed to support organizers in effectively managing all aspects of the event made with Next.js and Tailwindcss</p>
+<p>A web application for organizing scientific conferences is a tool designed to support organizers in effectively managing all aspects of the event made with Next.js (using TypeScript) and Tailwindcss</p>
 
 <a href="https://github.com/theImmortalCoders/reServeCourt_frontend">reServeCourt: </a>
-<p>This project aims to develop an application for managing tennis courts and reservations made with Next.js and Tailwindcss</p>
+<p>This project aims to develop an application for managing tennis courts and reservations made with Next.js (using TypeScript) and Tailwindcss</p>
 
 <a href="https://github.com/skni-kod/KodemyFrontend">Kodemy: </a>
-<p>Kodemy is a web application that allows users to store useful materials covering everything from IT technologies to a wide range of scientific knowledge and practical skills made with Next.js and Tailwindcss</p>
+<p>Kodemy is a web application that allows users to store useful materials covering everything from IT technologies to a wide range of scientific knowledge and practical skills made with Next.js (using TypeScript) and Tailwindcss</p>
 
 <hr/>
 <br/>
