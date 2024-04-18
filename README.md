@@ -12,32 +12,32 @@
 
 <br />
 <br />
-<h1>MY PROJECT</h1>
+<h1>My projects / I'm involved in</h1>
 
 <h2>Done </h2>
+
+<a href="https://github.com/ZegarekPL/Bank">Bank app: </a>
+<p>Java-based banking application integrated with a MySQL database, featuring a JavaFX user interface.</p>
+
 <a href="https://lksglowienka.pl/">LKS Glowienka Website: </a>
-<p>Football club management system with automatic counting of player, club and season statistics</p>
+<p>Football club management system with automatic counting of player, club and season statistics made with Next.js and Tailwindcss</p>
 
 <h2>In progress </h2>
 
 <a href="https://github.com/theImmortalCoders/konfero_frontend">Konfero: </a>
-<p>A web application for organizing scientific conferences is a tool designed to support organizers in effectively managing all aspects of the event</p>
-<br/>
+<p>A web application for organizing scientific conferences is a tool designed to support organizers in effectively managing all aspects of the event made with Next.js and Tailwindcss</p>
 
 <a href="https://github.com/theImmortalCoders/reServeCourt_frontend">reServeCourt: </a>
-<p>This project aims to develop an application for managing tennis courts and reservations</p>
-<br/>
+<p>This project aims to develop an application for managing tennis courts and reservations made with Next.js and Tailwindcss</p>
 
 <a href="https://github.com/skni-kod/KodemyFrontend">Kodemy: </a>
-<p>Kodemy is a web application that allows users to store useful materials covering everything from IT technologies to a wide range of scientific knowledge and practical skills</p>
-<br/>
+<p>Kodemy is a web application that allows users to store useful materials covering everything from IT technologies to a wide range of scientific knowledge and practical skills made with Next.js and Tailwindcss</p>
 
 <hr/>
 <br/>
 
 <h1>ABOUT ME</h1>
 
-![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
