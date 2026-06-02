@@ -6,7 +6,7 @@
 
 <p align="center"> 
   <samp>
-    「 I'm a student of <b>computer science</b>, programming by passion. 」
+    「 I'm a student of <b>computer science</b>, also involved in open-source projects. 」
   </samp>
 </p>
 
@@ -19,10 +19,8 @@
 <a href="https://github.com/ZegarekPL/Bank">Bank app: </a>
 <p>Java-based banking application integrated with a MySQL database, featuring a JavaFX user interface.</p>
 
-<a href="https://lksglowienka.pl/">LKS Glowienka Website: </a>
+<a href="https://github.com/theImmortalCoders/lks_glowienka_frontend">LKS Glowienka: </a>
 <p>Football club management system with automatic counting of player, club and season statistics made with Next.js (using TypeScript) and Tailwindcss</p>
-
-<h2>In progress </h2>
 
 <a href="https://github.com/theImmortalCoders/RUTAIGames">RUTAIGames: </a>
 <p>The project involves creating a web app that serves as a mini-game database for interacting with artificial intelligence written in Python, JavaScript, HTML, and Tailwind CSS</p>
@@ -35,6 +33,15 @@
 
 <a href="https://github.com/skni-kod/KodemyFrontend">Kodemy: </a>
 <p>Kodemy is a web application that allows users to store useful materials covering everything from IT technologies to a wide range of scientific knowledge and practical skills made with Next.js (using TypeScript) and Tailwindcss</p>
+
+<a href="https://github.com/nextcloud/desktop">Nextcloud Desktop: </a>
+<p>Desktop sync client for Nextcloud</p>
+
+<a href="https://github.com/nextcloud/android">Nextcloud Android: </a>
+<p>Nextcloud Android app</p>
+
+<a href="https://github.com/sockless-coding/panasonic_cc">Home Assistant panasonic_cc: </a>
+<p>Panasonic Comfort Cloud - Home Assistant Component</p>
 
 <hr/>
 <br/>
