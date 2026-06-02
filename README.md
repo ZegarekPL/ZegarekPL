@@ -6,7 +6,7 @@
 
 <p align="center"> 
   <samp>
-    「 I'm a student of <b>computer science</b>, also involved in open-source projects. 」
+    「 I'm a student of <b>computer science</b>, also involved in open source projects. 」
   </samp>
 </p>
 
@@ -33,6 +33,8 @@
 
 <a href="https://github.com/skni-kod/KodemyFrontend">Kodemy: </a>
 <p>Kodemy is a web application that allows users to store useful materials covering everything from IT technologies to a wide range of scientific knowledge and practical skills made with Next.js (using TypeScript) and Tailwindcss</p>
+
+<h2>Open source projects </h2>
 
 <a href="https://github.com/nextcloud/desktop">Nextcloud Desktop: </a>
 <p>Desktop sync client for Nextcloud</p>
